@@ -16,5 +16,3 @@ FROM nginx As courant
 
 COPY --from=originelle /doodlestudent/front/dist/tlcfront /usr/share/nginx/html
 
-EXPOSE 8080
-

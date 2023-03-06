@@ -113,6 +113,8 @@ public class PollResourceEx {
 		String padId = Utils.getInstance().generateSlug(15);
 		if (this.usePad) {
 			if (client == null) {
+				System.err.println(padUrl)
+				System.err.println(apikey)
 				client = new EPLiteClient(padUrl, apikey);
 			}
 			client.createPad(padId);
