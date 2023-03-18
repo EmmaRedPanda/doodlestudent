@@ -1,5 +1,13 @@
 Emma CHAPUIS - M2 ILA
 
+
+
+# TP DOCKER
+
+Tout fonctionne. Le Dockerfile et le docker-compose.yml sont trouvable dans le dossier resources en racine du projet. Ils sont à placer dans le même dossier que le dossier du projet TPDockerSampleApp.
+
+
+
 # PROJET DE TLC
 
 
